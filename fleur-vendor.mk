@@ -3882,7 +3882,6 @@ PRODUCT_PACKAGES += \
     mediatek-wfo-legacy \
     libwifi-hal-mtk \
     com.android.vndk.v31 \
-    IFAAService \
     InProcessTetheringResOverlay \
     NetworkStackInProcessResOverlay \
     NetworkStackResOverlay \
@@ -3894,7 +3893,6 @@ PRODUCT_PACKAGES += \
     com.fingerprints.extension \
     camerax-vendor-extensions \
     com.android.hotwordenrollment.common.util \
-    framework-ext-res \
     global-cleaner-empty \
     gson \
     mirilhook \
@@ -3903,7 +3901,6 @@ PRODUCT_PACKAGES += \
     android.hardware.dumpstate@1.1-service.xiaomi.xml \
     android.hardware.health@2.1.xml \
     android.hardware.neuralnetworks@1.3-service-mtk-gpu.xml \
-    android.hardware.usb@1.2-service-mediatekv2.xml \
     android.hardware.wifi.hostapd.xml \
     android.hardware.wifi.supplicant.xml \
     lights-mtk-default.xml \
